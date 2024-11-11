@@ -6,6 +6,6 @@ Here you will find:
 
 1. 📘 **Exercises done in class**
 2. 📝 **Exercises I created for extra practice**
-3. 📂 **Assignments and activities assigned for continued learning**
+3. 📂 **Assignments and activities to keep learning**
 
 Enjoy exploring the code!
